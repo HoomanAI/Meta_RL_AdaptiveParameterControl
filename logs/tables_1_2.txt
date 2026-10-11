@@ -1,0 +1,35 @@
+== QGA: Friedman p=3.2e-22, k=7, CD=1.50
+   ranks: {'Default': 5.53, 'Tuned static': 2.28, 'Random-M1': 5.25, 'Random-M2': 3.14, 'RELEASE-E': 5.94, 'Meta-RL M1': 3.67, 'MRL': 2.19}
+   M2 vs Default       W/T/L [23, 13, 0]  mean A12 0.85
+   M2 vs Tuned static  W/T/L [1, 34, 1]  mean A12 0.48
+   M2 vs Random-M1     W/T/L [15, 21, 0]  mean A12 0.8
+   M2 vs Random-M2     W/T/L [3, 33, 0]  mean A12 0.64
+   M2 vs RELEASE-E     W/T/L [23, 13, 0]  mean A12 0.86
+   M2 vs Meta-RL M1    W/T/L [16, 20, 0]  mean A12 0.76
+   D30 vs default sig W/L: [10, 0]
+== DE: Friedman p=4.5e-18, k=8, CD=1.75
+   ranks: {'Default': 4.81, 'Random-M1': 5.89, 'Random-M2': 6.44, 'RELEASE-E': 5.79, 'Meta-RL M1': 3.14, 'jDE': 3.78, 'SHADE': 2.01, 'MRL': 4.14}
+   M2 vs Default       W/T/L [3, 31, 2]  mean A12 0.51
+   M2 vs Random-M1     W/T/L [2, 33, 1]  mean A12 0.65
+   M2 vs Random-M2     W/T/L [6, 30, 0]  mean A12 0.68
+   M2 vs RELEASE-E     W/T/L [11, 20, 5]  mean A12 0.59
+   M2 vs Meta-RL M1    W/T/L [1, 31, 4]  mean A12 0.45
+   M2 vs jDE           W/T/L [2, 31, 3]  mean A12 0.43
+   M2 vs SHADE         W/T/L [0, 23, 13]  mean A12 0.25
+   D30 vs default sig W/L: [1, 1]
+== GA: Friedman p=1.7e-03, k=5, CD=1.02
+   ranks: {'Default': 3.11, 'Tuned static': 3.72, 'Random-M1': 2.89, 'RELEASE-E': 2.19, 'MRL': 3.08}
+   M2 vs Default       W/T/L [8, 26, 2]  mean A12 0.5
+   M2 vs Tuned static  W/T/L [7, 27, 2]  mean A12 0.6
+   M2 vs Random-M1     W/T/L [0, 34, 2]  mean A12 0.45
+   M2 vs RELEASE-E     W/T/L [0, 31, 5]  mean A12 0.38
+   D30 vs default sig W/L: [4, 1]
+== PSO: Friedman p=1.5e-10, k=7, CD=1.50
+   ranks: {'Default': 3.94, 'Random-M1': 5.28, 'Random-M2': 5.19, 'RELEASE-E': 2.83, 'Meta-RL M1': 4.86, 'LDIW-PSO': 3.11, 'MRL': 2.78}
+   M2 vs Default       W/T/L [1, 33, 2]  mean A12 0.55
+   M2 vs Random-M1     W/T/L [1, 35, 0]  mean A12 0.68
+   M2 vs Random-M2     W/T/L [3, 33, 0]  mean A12 0.69
+   M2 vs RELEASE-E     W/T/L [0, 33, 3]  mean A12 0.5
+   M2 vs Meta-RL M1    W/T/L [6, 30, 0]  mean A12 0.62
+   M2 vs LDIW-PSO      W/T/L [0, 35, 1]  mean A12 0.5
+   D30 vs default sig W/L: [1, 1]

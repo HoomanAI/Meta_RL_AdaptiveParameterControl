@@ -1,0 +1,6 @@
+QGA Default {'better': 27, 'w': 0, 't': 30, 'l': 0, 'a12': 0.84, 'med_ratio': 0.137}
+QGA Static-tuned {'better': 24, 'w': 0, 't': 30, 'l': 0, 'a12': 0.64, 'med_ratio': 0.072}
+DE Default {'better': 15, 'w': 0, 't': 30, 'l': 0, 'a12': 0.48, 'med_ratio': 0.0}
+PSO Default {'better': 13, 'w': 0, 't': 30, 'l': 0, 'a12': 0.44, 'med_ratio': -0.004}
+GA Default {'better': 20, 'w': 0, 't': 30, 'l': 0, 'a12': 0.64, 'med_ratio': 0.005}
+GA Static-tuned {'better': 21, 'w': 0, 't': 30, 'l': 0, 'a12': 0.7, 'med_ratio': 0.095}

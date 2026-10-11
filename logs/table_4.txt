@@ -1,0 +1,24 @@
+--- Friedman p = 4.3e-06
+full           rank 4.21  better 22/24  sig W/L 13/0  A12 0.84
+no-phase       rank 4.58  better 22/24  sig W/L 11/0  A12 0.84
+no-stag        rank 3.88  better 22/24  sig W/L 15/0  A12 0.85
+no-div         rank 3.50  better 22/24  sig W/L 14/0  A12 0.85
+no-knob        rank 6.42  better 20/24  sig W/L 14/0  A12 0.79
+rel-reward     rank 3.79  better 21/24  sig W/L 13/0  A12 0.83
+default-start  rank 3.50  better 23/24  sig W/L 14/0  A12 0.86
+online         rank 6.12  better 21/24  sig W/L 8/0  A12 0.78
+--- Friedman p = 0.051
+ep500          rank 3.71  better 22/24  sig W/L 14/0  A12 0.85
+ep1000         rank 3.21  better 23/24  sig W/L 13/0  A12 0.85
+ep1500         rank 2.50  better 24/24  sig W/L 15/0  A12 0.86
+ep2000         rank 3.62  better 24/24  sig W/L 13/0  A12 0.85
+ep2500         rank 4.00  better 22/24  sig W/L 14/0  A12 0.83
+ep3000         rank 3.96  better 22/24  sig W/L 14/0  A12 0.83
+--- post-hoc (full vs ablation)
+no-phase       worse on 13/24  p_Holm 0.844
+no-stag        worse on 14/24  p_Holm 1.000
+no-div         worse on 8/24  p_Holm 1.000
+no-knob        worse on 19/24  p_Holm 0.008
+rel-reward     worse on 10/24  p_Holm 1.000
+default-start  worse on 9/24  p_Holm 1.000
+online         worse on 18/24  p_Holm 0.005
