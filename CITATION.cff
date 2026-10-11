@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Meta-Reinforcement Learning for Adaptive Parameter Control in Evolutionary Algorithms"
+authors:
+  - family-names: Razavi
+    given-names: Hooman
+  - family-names: Hajiaghaei-Keshteli
+    given-names: Mostafa
+  - family-names: Gholian-Jouybari
+    given-names: Fatemeh
+  - family-names: Bonakdari
+    given-names: Hossein
+license: MIT

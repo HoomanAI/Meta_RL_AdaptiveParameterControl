@@ -1,0 +1,414 @@
+{
+ "QGA": {
+  "methods": [
+   "Default",
+   "Tuned static",
+   "Random-M1",
+   "Random-M2",
+   "RELEASE-E",
+   "Meta-RL M1",
+   "MRL"
+  ],
+  "rank": {
+   "Default": 5.53,
+   "Tuned static": 2.28,
+   "Random-M1": 5.25,
+   "Random-M2": 3.14,
+   "RELEASE-E": 5.94,
+   "Meta-RL M1": 3.67,
+   "MRL": 2.19
+  },
+  "friedman_p": 3.2070986048068088e-22,
+  "cd": 1.5,
+  "k": 7,
+  "wtl": {
+   "Default": [
+    23,
+    13,
+    0
+   ],
+   "Tuned static": [
+    1,
+    34,
+    1
+   ],
+   "Random-M1": [
+    15,
+    21,
+    0
+   ],
+   "Random-M2": [
+    3,
+    33,
+    0
+   ],
+   "RELEASE-E": [
+    23,
+    13,
+    0
+   ],
+   "Meta-RL M1": [
+    16,
+    20,
+    0
+   ]
+  },
+  "a12": {
+   "Default": 0.85,
+   "Tuned static": 0.48,
+   "Random-M1": 0.8,
+   "Random-M2": 0.64,
+   "RELEASE-E": 0.86,
+   "Meta-RL M1": 0.76
+  },
+  "vs_default_sig": {
+   "10_1": true,
+   "10_2": false,
+   "10_3": false,
+   "10_4": true,
+   "10_5": false,
+   "10_6": true,
+   "10_7": false,
+   "10_8": false,
+   "10_9": true,
+   "10_10": false,
+   "10_11": false,
+   "10_12": false,
+   "20_1": true,
+   "20_2": true,
+   "20_3": false,
+   "20_4": true,
+   "20_5": false,
+   "20_6": true,
+   "20_7": true,
+   "20_8": true,
+   "20_9": false,
+   "20_10": true,
+   "20_11": true,
+   "20_12": true,
+   "30_1": true,
+   "30_2": true,
+   "30_3": false,
+   "30_4": true,
+   "30_5": true,
+   "30_6": true,
+   "30_7": true,
+   "30_8": true,
+   "30_9": false,
+   "30_10": true,
+   "30_11": true,
+   "30_12": true
+  },
+  "d30_vs_default": [
+   10,
+   0
+  ]
+ },
+ "DE": {
+  "methods": [
+   "Default",
+   "Random-M1",
+   "Random-M2",
+   "RELEASE-E",
+   "Meta-RL M1",
+   "jDE",
+   "SHADE",
+   "MRL"
+  ],
+  "rank": {
+   "Default": 4.81,
+   "Random-M1": 5.89,
+   "Random-M2": 6.44,
+   "RELEASE-E": 5.79,
+   "Meta-RL M1": 3.14,
+   "jDE": 3.78,
+   "SHADE": 2.01,
+   "MRL": 4.14
+  },
+  "friedman_p": 4.542645775486918e-18,
+  "cd": 1.75,
+  "k": 8,
+  "wtl": {
+   "Default": [
+    3,
+    31,
+    2
+   ],
+   "Random-M1": [
+    2,
+    33,
+    1
+   ],
+   "Random-M2": [
+    6,
+    30,
+    0
+   ],
+   "RELEASE-E": [
+    11,
+    20,
+    5
+   ],
+   "Meta-RL M1": [
+    1,
+    31,
+    4
+   ],
+   "jDE": [
+    2,
+    31,
+    3
+   ],
+   "SHADE": [
+    0,
+    23,
+    13
+   ]
+  },
+  "a12": {
+   "Default": 0.51,
+   "Random-M1": 0.65,
+   "Random-M2": 0.68,
+   "RELEASE-E": 0.59,
+   "Meta-RL M1": 0.45,
+   "jDE": 0.43,
+   "SHADE": 0.25
+  },
+  "vs_default_sig": {
+   "10_1": false,
+   "10_2": false,
+   "10_3": false,
+   "10_4": false,
+   "10_5": false,
+   "10_6": true,
+   "10_7": false,
+   "10_8": false,
+   "10_9": false,
+   "10_10": false,
+   "10_11": false,
+   "10_12": false,
+   "20_1": true,
+   "20_2": false,
+   "20_3": false,
+   "20_4": false,
+   "20_5": false,
+   "20_6": false,
+   "20_7": false,
+   "20_8": false,
+   "20_9": false,
+   "20_10": true,
+   "20_11": false,
+   "20_12": false,
+   "30_1": true,
+   "30_2": false,
+   "30_3": false,
+   "30_4": false,
+   "30_5": false,
+   "30_6": false,
+   "30_7": false,
+   "30_8": true,
+   "30_9": false,
+   "30_10": false,
+   "30_11": false,
+   "30_12": false
+  },
+  "d30_vs_default": [
+   1,
+   1
+  ]
+ },
+ "GA": {
+  "methods": [
+   "Default",
+   "Tuned static",
+   "Random-M1",
+   "RELEASE-E",
+   "MRL"
+  ],
+  "rank": {
+   "Default": 3.11,
+   "Tuned static": 3.72,
+   "Random-M1": 2.89,
+   "RELEASE-E": 2.19,
+   "MRL": 3.08
+  },
+  "friedman_p": 0.0016815789081953611,
+  "cd": 1.02,
+  "k": 5,
+  "wtl": {
+   "Default": [
+    8,
+    26,
+    2
+   ],
+   "Tuned static": [
+    7,
+    27,
+    2
+   ],
+   "Random-M1": [
+    0,
+    34,
+    2
+   ],
+   "RELEASE-E": [
+    0,
+    31,
+    5
+   ]
+  },
+  "a12": {
+   "Default": 0.5,
+   "Tuned static": 0.6,
+   "Random-M1": 0.45,
+   "RELEASE-E": 0.38
+  },
+  "vs_default_sig": {
+   "10_1": false,
+   "10_2": false,
+   "10_3": false,
+   "10_4": false,
+   "10_5": false,
+   "10_6": false,
+   "10_7": false,
+   "10_8": false,
+   "10_9": false,
+   "10_10": false,
+   "10_11": false,
+   "10_12": false,
+   "20_1": true,
+   "20_2": true,
+   "20_3": false,
+   "20_4": true,
+   "20_5": false,
+   "20_6": true,
+   "20_7": false,
+   "20_8": false,
+   "20_9": false,
+   "20_10": false,
+   "20_11": false,
+   "20_12": true,
+   "30_1": true,
+   "30_2": true,
+   "30_3": false,
+   "30_4": false,
+   "30_5": false,
+   "30_6": true,
+   "30_7": false,
+   "30_8": true,
+   "30_9": false,
+   "30_10": false,
+   "30_11": false,
+   "30_12": true
+  },
+  "d30_vs_default": [
+   4,
+   1
+  ]
+ },
+ "PSO": {
+  "methods": [
+   "Default",
+   "Random-M1",
+   "Random-M2",
+   "RELEASE-E",
+   "Meta-RL M1",
+   "LDIW-PSO",
+   "MRL"
+  ],
+  "rank": {
+   "Default": 3.94,
+   "Random-M1": 5.28,
+   "Random-M2": 5.19,
+   "RELEASE-E": 2.83,
+   "Meta-RL M1": 4.86,
+   "LDIW-PSO": 3.11,
+   "MRL": 2.78
+  },
+  "friedman_p": 1.471303728039685e-10,
+  "cd": 1.5,
+  "k": 7,
+  "wtl": {
+   "Default": [
+    1,
+    33,
+    2
+   ],
+   "Random-M1": [
+    1,
+    35,
+    0
+   ],
+   "Random-M2": [
+    3,
+    33,
+    0
+   ],
+   "RELEASE-E": [
+    0,
+    33,
+    3
+   ],
+   "Meta-RL M1": [
+    6,
+    30,
+    0
+   ],
+   "LDIW-PSO": [
+    0,
+    35,
+    1
+   ]
+  },
+  "a12": {
+   "Default": 0.55,
+   "Random-M1": 0.68,
+   "Random-M2": 0.69,
+   "RELEASE-E": 0.5,
+   "Meta-RL M1": 0.62,
+   "LDIW-PSO": 0.5
+  },
+  "vs_default_sig": {
+   "10_1": true,
+   "10_2": false,
+   "10_3": false,
+   "10_4": false,
+   "10_5": false,
+   "10_6": false,
+   "10_7": false,
+   "10_8": false,
+   "10_9": false,
+   "10_10": false,
+   "10_11": false,
+   "10_12": false,
+   "20_1": false,
+   "20_2": false,
+   "20_3": false,
+   "20_4": false,
+   "20_5": false,
+   "20_6": false,
+   "20_7": false,
+   "20_8": false,
+   "20_9": false,
+   "20_10": false,
+   "20_11": false,
+   "20_12": false,
+   "30_1": true,
+   "30_2": false,
+   "30_3": false,
+   "30_4": false,
+   "30_5": false,
+   "30_6": false,
+   "30_7": false,
+   "30_8": false,
+   "30_9": true,
+   "30_10": false,
+   "30_11": false,
+   "30_12": false
+  },
+  "d30_vs_default": [
+   1,
+   1
+  ]
+ }
+}
