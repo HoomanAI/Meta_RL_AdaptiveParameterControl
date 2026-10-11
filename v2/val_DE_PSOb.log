@@ -1,0 +1,19 @@
+--- DE (validation, CEC2017-style F1-F30, D=10, 3 seeds)
+  Default  beats Default on 0/30
+  Static   beats Default on 0/30
+  ep500    beats Default on 19/30
+  ep1000   beats Default on 12/30
+  ep1500   beats Default on 17/30
+  ep2000   beats Default on 14/30
+  ep2500   beats Default on 12/30
+  ep3000   beats Default on 10/30
+  selected {'checkpoint': 'v2/DE_ep500.npy', 'val_wins': 19, 'static_val_wins': 0}
+--- PSOb (validation, CEC2017-style F1-F30, D=10, 3 seeds)
+  Default  beats Default on 0/30
+  Static   beats Default on 0/30
+  ep500    beats Default on 6/30
+  ep1000   beats Default on 11/30
+  ep1500   beats Default on 8/30
+  ep2000   beats Default on 8/30
+  ep2500   beats Default on 11/30
+  selected {'checkpoint': 'v2/PSOb_ep1000.npy', 'val_wins': 11, 'static_val_wins': 0}

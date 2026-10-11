@@ -1,0 +1,87 @@
+{
+ "QGA vs Default": [
+  22,
+  16,
+  0
+ ],
+ "QGA vs Static-tuned": [
+  11,
+  2,
+  1
+ ],
+ "QGA vs RELEASE-E": [
+  23,
+  16,
+  0
+ ],
+ "QGA vs Meta-RL-v1": [
+  18,
+  11,
+  1
+ ],
+ "DE vs Default": [
+  11,
+  5,
+  3
+ ],
+ "DE vs Static-tuned": [
+  11,
+  5,
+  3
+ ],
+ "DE vs RELEASE-E": [
+  18,
+  10,
+  5
+ ],
+ "DE vs Meta-RL-v1": [
+  12,
+  3,
+  6
+ ],
+ "DE vs jDE": [
+  14,
+  4,
+  4
+ ],
+ "GA vs Default": [
+  12,
+  0,
+  2
+ ],
+ "GA vs Static-tuned": [
+  14,
+  3,
+  1
+ ],
+ "GA vs RELEASE-E": [
+  5,
+  0,
+  9
+ ],
+ "GA vs Meta-RL-v1": [
+  0,
+  0,
+  0
+ ],
+ "PSO vs Default": [
+  18,
+  2,
+  2
+ ],
+ "PSO vs Static-tuned": [
+  18,
+  2,
+  2
+ ],
+ "PSO vs RELEASE-E": [
+  12,
+  1,
+  2
+ ],
+ "PSO vs Meta-RL-v1": [
+  16,
+  5,
+  2
+ ]
+}

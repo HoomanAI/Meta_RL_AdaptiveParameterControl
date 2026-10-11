@@ -1,0 +1,22 @@
+{
+ "PSO": {
+  "checkpoint": "v2/PSO_ep1750.npy",
+  "val_wins": 11,
+  "static_val_wins": 0
+ },
+ "QGA": {
+  "checkpoint": "v2/QGA_cv_ep750.npy",
+  "val_wins": 27,
+  "static_val_wins": 22
+ },
+ "DE": {
+  "checkpoint": "v2/DE_cv_ep750.npy",
+  "val_wins": 16,
+  "static_val_wins": 0
+ },
+ "GA": {
+  "checkpoint": "v2/GA_cv_ep2000.npy",
+  "val_wins": 19,
+  "static_val_wins": 14
+ }
+}

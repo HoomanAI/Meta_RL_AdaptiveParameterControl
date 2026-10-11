@@ -1,0 +1,8 @@
+--- GA (validation, CEC2017-style F1-F30, D=10, 3 seeds)
+  Default  beats Default on 0/30
+  Static   beats Default on 14/30
+  ep500    beats Default on 15/30
+  ep1000   beats Default on 6/30
+  ep1500   beats Default on 14/30
+  ep2000   beats Default on 18/30
+  selected {'checkpoint': 'v2/GA_ep2000.npy', 'val_wins': 18, 'static_val_wins': 14}

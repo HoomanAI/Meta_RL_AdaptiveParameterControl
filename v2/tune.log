@@ -1,0 +1,4 @@
+QGA tuned [0.007891323959882375, 0.0020000000000000005] mean log10 err tuned 2.538 default 3.217 tuned beats default on 1.0
+PSO tuned [0.5409107064819276, 1.635973474853093] mean log10 err tuned 2.192 default 2.119 tuned beats default on 0.525
+DE tuned [0.1643751829517226, 0.05000000000000001] mean log10 err tuned 2.256 default 1.689 tuned beats default on 0.15
+GA tuned [0.01657227008669995, 0.06309573444801934] mean log10 err tuned 2.349 default 2.57 tuned beats default on 0.625

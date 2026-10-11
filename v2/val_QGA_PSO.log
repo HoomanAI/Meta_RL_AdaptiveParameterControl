@@ -1,0 +1,20 @@
+--- QGA (validation, CEC2017-style F1-F30, D=10, 3 seeds)
+  Default  beats Default on 0/30
+  Static   beats Default on 22/30
+  ep500    beats Default on 24/30
+  ep1000   beats Default on 26/30
+  ep1500   beats Default on 28/30
+  ep2000   beats Default on 25/30
+  ep2500   beats Default on 29/30
+  ep3000   beats Default on 26/30
+  selected {'checkpoint': 'v2/QGA_ep2500.npy', 'val_wins': 29, 'static_val_wins': 22}
+--- PSO (validation, CEC2017-style F1-F30, D=10, 3 seeds)
+  Default  beats Default on 0/30
+  Static   beats Default on 0/30
+  ep500    beats Default on 11/30
+  ep1000   beats Default on 13/30
+  ep1500   beats Default on 15/30
+  ep2000   beats Default on 13/30
+  ep2500   beats Default on 11/30
+  ep3000   beats Default on 10/30
+  selected {'checkpoint': 'v2/PSO_ep1500.npy', 'val_wins': 15, 'static_val_wins': 0}
